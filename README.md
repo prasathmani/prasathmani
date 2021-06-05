@@ -33,9 +33,6 @@
 
 ---
 
-
-<img align="left" alt="PrasathMani's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=prasathmani&count_private=true&show_icons=true&hide_border=true" />
-
 [website]: http://gitshowcase.com/prasathmani
 [twitter]: https://twitter.com/prasathmanii
 [linkedin]: https://www.linkedin.com/in/prasathmani
