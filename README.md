@@ -9,12 +9,10 @@
 
 ### Connect:
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abusaid.riyaz)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasathmani/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prasathmani)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prasathmanii)
 [![GitShowcase Badge](https://img.shields.io/badge/GitShowCase-D14836?style=for-the-badge&logo=github&logoColor=white)](http://gitshowcase.com/prasathmani)
 
-<br />
 
 ### Languages and Tools:
 
@@ -64,7 +62,3 @@
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=prasathmani&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&hide_border=true&area=true" alt="Abu Said's monthly coding activity" />
 </a>
 </p>
-
-[website]: http://gitshowcase.com/prasathmani
-[twitter]: https://twitter.com/prasathmanii
-[linkedin]: https://www.linkedin.com/in/prasathmani
