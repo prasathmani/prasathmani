@@ -52,13 +52,3 @@
 
 <a href="https://github.com/prasathmani"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasathmani&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
 
----
-
-### Current Month Activity:
-
-<!-- Activity graph -->
-<p align="center">
-<a href="#">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=prasathmani&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&hide_border=true&area=true" alt="Abu Said's monthly coding activity" />
-</a>
-</p>
