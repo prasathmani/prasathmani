@@ -38,17 +38,3 @@
 ![JIRA](https://img.shields.io/badge/JIRA-000000?style=flat-square&logo=jira&logoColor=D9224D)
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
-
-
----
-
-### My Github Status:
-
-<a href="https://github.com/prasathmani"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prasathmani&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Prasath Mani's github status" /></a>
-
----
-
-### Top Usage Languages:
-
-<a href="https://github.com/prasathmani"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasathmani&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
-
