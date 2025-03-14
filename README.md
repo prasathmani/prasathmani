@@ -4,13 +4,12 @@
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on [Tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I spent my weekend watching movies
 
 ### Connect:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasathmani/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prasathmanii)
 [![GitShowcase Badge](https://img.shields.io/badge/GitShowCase-D14836?style=for-the-badge&logo=github&logoColor=white)](http://gitshowcase.com/prasathmani)
 
 
