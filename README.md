@@ -10,7 +10,7 @@
 ### Connect:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasathmani/)
-[![GitShowcase Badge](https://img.shields.io/badge/GitShowCase-D14836?style=for-the-badge&logo=github&logoColor=white)](http://gitshowcase.com/prasathmani)
+[![GitShowcase Badge](https://img.shields.io/badge/GitShowCase-D14836?style=for-the-badge&logo=github&logoColor=white)](https://prasathmani.netlify.app/)
 
 
 ### Languages and Tools:
