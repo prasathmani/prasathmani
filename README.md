@@ -1,11 +1,29 @@
-### Hi there 👋
+```
 
-### Hi, I'm Prasath Mani, a passionate self-taught frontend web developer.
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on [Tinyfilemanager](https://github.com/prasathmani/tinyfilemanager)
-- 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I spent my weekend watching movies
+██████╗ ██████╗  █████╗ ███████╗ █████╗ ████████╗██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██║  ██║
+██████╔╝██████╔╝███████║███████╗███████║   ██║   ███████║
+██╔═══╝ ██╔══██╗██╔══██║╚════██║██╔══██║   ██║   ██╔══██║
+██║     ██║  ██║██║  ██║███████║██║  ██║   ██║   ██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+
+```
+
+Hi 👋, I'm **Prasath Mani** — a passionate self-taught frontend web developer who enjoys turning ideas into fast, accessible and delightful web experiences.
+
+I love building things with **JavaScript, TypeScript, React and modern frontend technologies**, and I'm always curious about better ways to build for the web.
+
+
+## 🧑‍💻 About Me
+
+- 🚀 Building modern and scalable frontend applications
+- ⚛️ Passionate about **React, TypeScript & JavaScript**
+- 🧩 Interested in frontend architecture, developer experience and clean code
+- 🌱 Continuously learning and exploring new technologies
+- 🛠️ Enjoy creating tools and projects that solve real problems
+- 🤝 Open to collaborating on interesting open-source projects
+- 🥅 Goal: Contribute more to the open-source community
+
 
 ### Connect:
 
